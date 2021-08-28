@@ -58,7 +58,7 @@ export default class list extends React.Component {
           this.setState({
             item_readonly: false
           })
-          alert('现在可以修改代办事项啦')
+          alert('现在点击对应事项就可以可以修改代办事项啦')
         }}
       >修改</Button>
     </div>
